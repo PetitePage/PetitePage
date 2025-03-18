@@ -1,9 +1,16 @@
-<h1 align="center">Hi 👋, I'm PetitePage</h1>
+![image](https://github.com/user-attachments/assets/c109597e-9704-4fa6-a117-6c32771ce446)<h1 align="center">Hi 👋, I'm PetitePage</h1>
 <h3 align="center">A passionate cybersecurity learner</h3>
 
-- 🔭 I’m currently working on **CPTS**
+- ✈️ [PJPT Certified](https://certified.tcm-sec.com/cc90c659-ff6b-4298-84fd-75ab60e66460)
 
-- 📪 I've done [+30 HTB Boxs](https://app.hackthebox.com/users/1970427)
+- 🖥️ I've completed **Dante** & **Zephyr** prolabs
+
+- 🖥️ I've done [+30 HTB Boxs](https://app.hackthebox.com/users/1970427)
+  
+- 📗 I’m currently working on **HTB Certified Penetration Testing Specialist** certification
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
