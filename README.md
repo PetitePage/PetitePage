@@ -1,4 +1,4 @@
-)<h1 align="center">Hi 👋, I'm PetitePage</h1>
+<h1 align="center">Hi 👋, I'm PetitePage</h1>
 <h3 align="center">A passionate cybersecurity learner</h3>
 
 - ✈️ [PJPT Certified](https://certified.tcm-sec.com/cc90c659-ff6b-4298-84fd-75ab60e66460)
